@@ -8,7 +8,7 @@
 ## Repository Links
 
 ### 1. Main Documentation Repository
-- **URL:** https://github.com/yourusername/rideau-canal-monitoring
+- **URL:** https://github.com/sopn0001/CST8916_Final_Project
 - **Description:** Complete project documentation, architecture, screenshots, and guides
 
 ### 2. Sensor Simulation Repository
