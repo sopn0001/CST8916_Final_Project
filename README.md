@@ -290,10 +290,10 @@ For full deployment steps (App Service, app settings), see the individual compon
 
 | | |
 |---|---|
-| ![IoT Hub Devices](architecture/screenshots/01-iot-hub-devices.png) **IoT Hub – Registered Devices** | ![IoT Hub Metrics](architecture/screenshots/02-iot-hub-metrics.png) **IoT Hub – Message Metrics** |
-| ![Stream Analytics Query](architecture/screenshots/03-stream-analytics-query.png) **Stream Analytics – Query Editor** | ![Stream Analytics Running](architecture/screenshots/04-stream-analytics-running.png) **Stream Analytics – Job Running** |
-| ![Cosmos DB Data](architecture/screenshots/05-cosmos-db-data.png) **Cosmos DB – Aggregated Documents** | ![Blob Storage Files](architecture/screenshots/06-blob-storage-files.png) **Blob Storage – Archived Files** |
-| ![Dashboard Local](architecture/screenshots/07-dashboard-local.png) **Dashboard – Local** | ![Dashboard Azure](architecture/screenshots/08-dashboard-azure.png) **Dashboard – Azure App Service** |
+| ![IoT Hub Devices](screenshots/01-iot-hub-devices.png) **IoT Hub – Registered Devices** | ![IoT Hub Metrics](screenshots/02-iot-hub-metrics.png) **IoT Hub – Message Metrics** |
+| ![Stream Analytics Query](screenshots/03-stream-analytics-query.png) **Stream Analytics – Query Editor** | ![Stream Analytics Running](screenshots/04-stream-analytics-running.png) **Stream Analytics – Job Running** |
+| ![Cosmos DB Data](screenshots/05-cosmos-db-data.png) **Cosmos DB – Aggregated Documents** | ![Blob Storage Files](screenshots/06-blob-storage-files.png) **Blob Storage – Archived Files** |
+| ![Dashboard Local](screenshots/07-dashboard-local.png) **Dashboard – Local** | ![Dashboard Azure](screenshots/08-dashboard-azure.png) **Dashboard – Azure App Service** |
 
 ### Sample Cosmos DB Document
 
